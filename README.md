@@ -1,6 +1,4 @@
 # handlebars-v4
-[![Build Status](https://travis-ci.org/bigcommerce/handlebars-v4.svg?branch=master)](https://travis-ci.org/bigcommerce/handlebars-v4)
-
 *handlebars-v4* is a simple wrapper for the [handlebars.js](http://handlebarsjs.com/) v4 template engine. This is required because
 we need to load v3 and v4 side-by-side to support both versions in [paper-handlebars](https://github.com/bigcommerce/paper-handlebars).
 
