@@ -1,6 +1,6 @@
 {
   "name": "@bigcommerce/handlebars-v4",
-  "version": "4.7.6",
+  "version": "4.7.8",
   "description": "A simple wrapper for handlebars.js v4",
   "main": "index.js",
   "author": "Bigcommerce",
@@ -19,6 +19,6 @@
   },
   "homepage": "https://github.com/bigcommerce/handlebars-v4",
   "dependencies": {
-    "handlebars": "4.7.6"
+    "handlebars": "4.7.8"
   }
 }
